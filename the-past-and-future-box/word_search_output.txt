@@ -1,0 +1,150 @@
+Loading matrix from 'matrix.txt'...
+
+Matrix loaded:
+Q V U C A L I L E N I N E T E E N B M A
+C R E T E H T R E A O U C S I F E V L E
+O R O U N D H N I M I H S T O L I A R O
+U H T R O N R O E O C E H S R A R D W O
+N O U B T D E L O E L T L N T R E T A W
+T E T A T S E O N Y N E O A O L I N E O
+P M U E H T T S E W O D A H R E E R E T
+E O N S K A E P T O O O I L P A S I E C
+L E S D B N O O R A O O E V L E W T S R
+E N T U F I V E T N T N C O I U J T S O
+V R N I E M A K L A W E S C O D T R I D
+E A D T T E Y O S S Q U A R E E E R H T
+N M T O P L E C E O H E T Q U A R R Y O
+N S I O S M I X Z F D Q B C C A S L I Y
+A P S O R E Z N G Q Z P S A P P H I R E
+
+Searching for words...
+
+Found words:
+Word: UCAL, Row: 1, Column: 3, Length: 4, Direction: Right
+Word: LILE, Row: 1, Column: 6, Length: 4, Direction: Right
+Word: LILA, Row: 1, Column: 8, Length: 4, Direction: Left
+Word: LILAC, Row: 1, Column: 8, Length: 5, Direction: Left
+Word: NINE, Row: 1, Column: 10, Length: 4, Direction: Right
+Word: NINETEEN, Row: 1, Column: 10, Length: 8, Direction: Right
+Word: NETE, Row: 1, Column: 12, Length: 4, Direction: Right
+Word: NINE, Row: 1, Column: 12, Length: 4, Direction: Left
+Word: NOME, Row: 1, Column: 12, Length: 4, Direction: Diagonal Down-Left
+Word: TEEN, Row: 1, Column: 14, Length: 4, Direction: Right
+Word: NEET, Row: 1, Column: 17, Length: 4, Direction: Left
+Word: ALAR, Row: 1, Column: 20, Length: 4, Direction: Diagonal Down-Left
+Word: CRETE, Row: 2, Column: 1, Length: 5, Direction: Right
+Word: COUNT, Row: 2, Column: 1, Length: 5, Direction: Down
+Word: TURB, Row: 2, Column: 4, Length: 4, Direction: Down
+Word: THREE, Row: 2, Column: 7, Length: 5, Direction: Down
+Word: ERTH, Row: 2, Column: 9, Length: 4, Direction: Left
+Word: AIEL, Row: 2, Column: 10, Length: 4, Direction: Diagonal Down-Right
+Word: OMELET, Row: 2, Column: 11, Length: 6, Direction: Diagonal Down-Left
+Word: SIFE, Row: 2, Column: 14, Length: 4, Direction: Right
+Word: FISC, Row: 2, Column: 16, Length: 4, Direction: Left
+Word: ROUN, Row: 3, Column: 2, Length: 4, Direction: Right
+Word: ROUND, Row: 3, Column: 2, Length: 5, Direction: Right
+Word: NOLO, Row: 3, Column: 8, Length: 4, Direction: Down
+Word: MELE, Row: 3, Column: 10, Length: 4, Direction: Diagonal Down-Left
+Word: SHIM, Row: 3, Column: 13, Length: 4, Direction: Left
+Word: TSHI, Row: 3, Column: 14, Length: 4, Direction: Left
+Word: LIAR, Row: 3, Column: 16, Length: 4, Direction: Right
+Word: ILOT, Row: 3, Column: 17, Length: 4, Direction: Left
+Word: RAIL, Row: 3, Column: 19, Length: 4, Direction: Left
+Word: TRON, Row: 4, Column: 3, Length: 4, Direction: Right
+Word: TUTU, Row: 4, Column: 3, Length: 4, Direction: Down
+Word: NORTH, Row: 4, Column: 6, Length: 5, Direction: Left
+Word: REET, Row: 4, Column: 7, Length: 4, Direction: Down
+Word: OMAN, Row: 4, Column: 10, Length: 4, Direction: Up
+Word: OLEA, Row: 4, Column: 10, Length: 4, Direction: Diagonal Down-Right
+Word: CENSE, Row: 4, Column: 11, Length: 5, Direction: Diagonal Down-Left
+Word: BRUT, Row: 5, Column: 4, Length: 4, Direction: Up
+Word: TONE, Row: 5, Column: 5, Length: 4, Direction: Up
+Word: LEMON, Row: 5, Column: 8, Length: 5, Direction: Diagonal Up-Right
+Word: ENSE, Row: 5, Column: 10, Length: 4, Direction: Diagonal Down-Left
+Word: LEAL, Row: 5, Column: 11, Length: 4, Direction: Diagonal Down-Right
+Word: LOIR, Row: 5, Column: 11, Length: 4, Direction: Diagonal Up-Left
+Word: TRET, Row: 5, Column: 15, Length: 4, Direction: Right
+Word: RALF, Row: 5, Column: 16, Length: 4, Direction: Up
+Word: ERIE, Row: 5, Column: 17, Length: 4, Direction: Up
+Word: WATER, Row: 5, Column: 20, Length: 5, Direction: Left
+Word: TATE, Row: 6, Column: 5, Length: 4, Direction: Left
+Word: STAN, Row: 6, Column: 6, Length: 4, Direction: Down
+Word: STATE, Row: 6, Column: 6, Length: 5, Direction: Left
+Word: ESTATE, Row: 6, Column: 7, Length: 6, Direction: Left
+Word: ESTATE, Row: 6, Column: 7, Length: 6, Direction: Diagonal Down-Right
+Word: YEOMAN, Row: 6, Column: 10, Length: 6, Direction: Up
+Word: OHIO, Row: 6, Column: 15, Length: 4, Direction: Diagonal Down-Left
+Word: LINE, Row: 6, Column: 16, Length: 4, Direction: Right
+Word: NEAL, Row: 6, Column: 18, Length: 4, Direction: Diagonal Down-Left
+Word: ERSE, Row: 6, Column: 19, Length: 4, Direction: Diagonal Down-Left
+Word: PELE, Row: 7, Column: 1, Length: 4, Direction: Down
+Word: TELE, Row: 7, Column: 6, Length: 4, Direction: Diagonal Up-Right
+Word: TEER, Row: 7, Column: 7, Length: 4, Direction: Up
+Word: TABU, Row: 7, Column: 7, Length: 4, Direction: Diagonal Down-Left
+Word: SOLO, Row: 7, Column: 8, Length: 4, Direction: Up
+Word: SOLON, Row: 7, Column: 8, Length: 5, Direction: Up
+Word: STATE, Row: 7, Column: 8, Length: 5, Direction: Diagonal Down-Right
+Word: WOAN, Row: 7, Column: 10, Length: 4, Direction: Down
+Word: WEST, Row: 7, Column: 10, Length: 4, Direction: Left
+Word: DOON, Row: 7, Column: 12, Length: 4, Direction: Down
+Word: DIVIDE, Row: 7, Column: 12, Length: 6, Direction: Diagonal Down-Right
+Word: DIVIDER, Row: 7, Column: 12, Length: 7, Direction: Diagonal Down-Right
+Word: DOAT, Row: 7, Column: 12, Length: 4, Direction: Diagonal Down-Left
+Word: ELEVEN, Row: 8, Column: 1, Length: 6, Direction: Down
+Word: KETO, Row: 8, Column: 5, Length: 4, Direction: Diagonal Up-Left
+Word: ANIME, Row: 8, Column: 6, Length: 5, Direction: Down
+Word: ABUNA, Row: 8, Column: 6, Length: 5, Direction: Diagonal Down-Left
+Word: ESNE, Row: 8, Column: 7, Length: 4, Direction: Diagonal Up-Right
+Word: PEAK, Row: 8, Column: 8, Length: 4, Direction: Left
+Word: TATE, Row: 8, Column: 9, Length: 4, Direction: Diagonal Down-Right
+Word: OONS, Row: 8, Column: 10, Length: 4, Direction: Diagonal Down-Right
+Word: IOTA, Row: 8, Column: 13, Length: 4, Direction: Diagonal Down-Left
+Word: PASI, Row: 8, Column: 15, Length: 4, Direction: Right
+Word: PHOT, Row: 8, Column: 15, Length: 4, Direction: Diagonal Up-Left
+Word: DUIT, Row: 9, Column: 4, Length: 4, Direction: Down
+Word: BUNA, Row: 9, Column: 5, Length: 4, Direction: Diagonal Down-Left
+Word: ROON, Row: 9, Column: 9, Length: 4, Direction: Left
+Word: AROON, Row: 9, Column: 10, Length: 5, Direction: Left
+Word: TWELVE, Row: 9, Column: 18, Length: 6, Direction: Left
+Word: EVEN, Row: 10, Column: 1, Length: 4, Direction: Down
+Word: FIVE, Row: 10, Column: 5, Length: 4, Direction: Right
+Word: VOET, Row: 10, Column: 7, Length: 4, Direction: Up
+Word: ULLA, Row: 10, Column: 16, Length: 4, Direction: Diagonal Up-Left
+Word: NUBA, Row: 11, Column: 3, Length: 4, Direction: Diagonal Up-Right
+Word: MEIN, Row: 11, Column: 6, Length: 4, Direction: Left
+Word: MINA, Row: 11, Column: 6, Length: 4, Direction: Up
+Word: AERO, Row: 11, Column: 7, Length: 4, Direction: Diagonal Up-Right
+Word: KAME, Row: 11, Column: 8, Length: 4, Direction: Left
+Word: ASCI, Row: 11, Column: 10, Length: 4, Direction: Diagonal Down-Left
+Word: WALK, Row: 11, Column: 11, Length: 4, Direction: Left
+Word: SOLA, Row: 11, Column: 13, Length: 4, Direction: Diagonal Up-Right
+Word: DIRT, Row: 11, Column: 20, Length: 4, Direction: Left
+Word: ARNE, Row: 12, Column: 2, Length: 4, Direction: Up
+Word: DOSE, Row: 12, Column: 3, Length: 4, Direction: Diagonal Down-Right
+Word: TITE, Row: 12, Column: 5, Length: 4, Direction: Diagonal Up-Left
+Word: EPOS, Row: 12, Column: 6, Length: 4, Direction: Diagonal Down-Left
+Word: SQUARE, Row: 12, Column: 10, Length: 6, Direction: Right
+Word: QUAR, Row: 12, Column: 11, Length: 4, Direction: Right
+Word: QUARE, Row: 12, Column: 11, Length: 5, Direction: Right
+Word: ERIE, Row: 12, Column: 17, Length: 4, Direction: Diagonal Down-Right
+Word: THREE, Row: 12, Column: 20, Length: 5, Direction: Left
+Word: NEVE, Row: 13, Column: 1, Length: 4, Direction: Up
+Word: NEVEL, Row: 13, Column: 1, Length: 5, Direction: Up
+Word: COKE, Row: 13, Column: 8, Length: 4, Direction: Up
+Word: HUSO, Row: 13, Column: 11, Length: 4, Direction: Diagonal Up-Right
+Word: QUAR, Row: 13, Column: 14, Length: 4, Direction: Right
+Word: QUARRY, Row: 13, Column: 14, Length: 6, Direction: Right
+Word: ARRY, Row: 13, Column: 16, Length: 4, Direction: Right
+Word: ANNE, Row: 15, Column: 1, Length: 4, Direction: Up
+Word: SORE, Row: 15, Column: 3, Length: 4, Direction: Right
+Word: SOPE, Row: 15, Column: 3, Length: 4, Direction: Diagonal Up-Right
+Word: OIME, Row: 15, Column: 4, Length: 4, Direction: Diagonal Up-Left
+Word: ROTA, Row: 15, Column: 5, Length: 4, Direction: Diagonal Up-Left
+Word: EROS, Row: 15, Column: 6, Length: 4, Direction: Left
+Word: ZERO, Row: 15, Column: 7, Length: 4, Direction: Left
+Word: SAPPHIRE, Row: 15, Column: 13, Length: 8, Direction: Right
+Word: PARR, Row: 15, Column: 15, Length: 4, Direction: Diagonal Up-Right
+Word: HIRE, Row: 15, Column: 17, Length: 4, Direction: Right
+Word: EYOT, Row: 15, Column: 20, Length: 4, Direction: Up
+
+Total Number of Words Found: 126
